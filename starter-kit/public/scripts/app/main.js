@@ -4,7 +4,7 @@ define([
 	"controllers/application_controller",
 	"controllers/index_controller",
 	"app/router",
-	"app/routes/index_route"
+	"routes/index_route"
 ], function(
      ApplicationView,
      IndexView,
