@@ -1,10 +1,10 @@
 define([
-	"views/ApplicationView",
-	"views/IndexView",
-	"controllers/ApplicationController",
-	"controllers/IndexController",
+	"views/application_view",
+	"views/index_view",
+	"controllers/application_controller",
+	"controllers/index_controller",
 	"app/router",
-	"app/routes/IndexRoute"
+	"app/routes/index_route"
 ], function(
      ApplicationView,
      IndexView,

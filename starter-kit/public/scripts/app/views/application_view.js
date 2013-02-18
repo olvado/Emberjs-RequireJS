@@ -1,6 +1,6 @@
 define([
 	"ember",
-	"text!templates/applicationTemplate.html"
+	"text!templates/application_template.html"
 ], function(Ember, template) {
 
 	var ApplicationView = Ember.View.extend({

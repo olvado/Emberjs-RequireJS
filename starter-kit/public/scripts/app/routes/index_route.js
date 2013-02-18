@@ -1,4 +1,3 @@
-
 define(['ember'],
 function(Ember) {
   "use strict";
